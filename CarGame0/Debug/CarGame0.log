@@ -1,0 +1,10 @@
+﻿  LSystem.cpp
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(55): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(60): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(65): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(73): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(76): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(79): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\minseo\desktop\컴퓨터그래픽스\cargame\cargame0\lsystem.cpp(82): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  CarGame0.vcxproj -> C:\Users\minseo\Desktop\컴퓨터그래픽스\CarGame\Debug\CarGame0.exe
+  CarGame0.vcxproj -> C:\Users\minseo\Desktop\컴퓨터그래픽스\CarGame\Debug\CarGame0.pdb (Partial PDB)

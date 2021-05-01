@@ -1,0 +1,23 @@
+﻿  TreeModel0.cpp
+c:\users\minseo\desktop\cargame\cargame0\treemodel0.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  main_CarGame0.cpp
+c:\users\minseo\desktop\cargame\cargame0\main_cargame0.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  CarModel.cpp
+c:\users\minseo\desktop\cargame\cargame0\carmodel.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  CarGame0App.cpp
+c:\users\minseo\desktop\cargame\cargame0\cargame0app.cpp(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  MeshSphere.cpp
+c:\users\minseo\desktop\cargame\basecodes\mesh.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  MeshHemisphere.cpp
+c:\users\minseo\desktop\cargame\basecodes\mesh.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  Mesh.cpp
+c:\users\minseo\desktop\cargame\basecodes\mesh.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  InitShader.cpp
+c:\users\minseo\desktop\cargame\basecodes\initshader.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  GroundObj2.cpp
+c:\users\minseo\desktop\cargame\basecodes\groundobj2.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  Camera.cpp
+c:\users\minseo\desktop\cargame\basecodes\camera.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  BasicShapeObjs.cpp
+c:\users\minseo\desktop\cargame\basecodes\basicshapeobjs.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  코드를 생성하고 있습니다...
