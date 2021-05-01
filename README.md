@@ -26,7 +26,7 @@
 
 ## 4. 실행 영상
 
-
+[![https://youtu.be/MVAKFsSTSFU](https://user-images.githubusercontent.com/70243735/116778425-c6b85c80-aaac-11eb-9bd2-3b6271c91259.PNG)](https://youtu.be/MVAKFsSTSFU)
 
 <br>
 
